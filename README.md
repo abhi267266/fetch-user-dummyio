@@ -15,7 +15,7 @@ Before running this CLI program, ensure you have the following prerequisites ins
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone <repository-url>
+   git clone (https://github.com/abhi267266/fetch-user-dummyio.git
    cd <repository-folder>
 2. Install the required dependencies:
 
