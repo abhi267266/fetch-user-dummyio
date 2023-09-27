@@ -34,7 +34,7 @@ Replace <your-mongodb-connection-url> with your MongoDB connection URL and <your
 
 <strong>Fetch and Store User Data</strong>
 
-#To fetch and store user data from the API, use the following command:
+# To fetch and store user data from the API, use the following command:
 
 ```shell
 node fetch.js fetch-users
@@ -42,14 +42,14 @@ node fetch.js fetch-users
 ```
 This command will retrieve user data from the API and store it in the MongoDB database.
 
-#Fetch and Store User Posts
+## Fetch and Store User Posts
 To fetch and store user posts from the API for a specific user, use the following command:
 ```
 node cli.js fetch-posts <user-id>
 ```
 Replace <user-id> with the ID of the user whose posts you want to fetch. This command will retrieve the user's posts from the API and store them in the MongoDB database.
 
-#Can be acceced from postman
+# Can be acceced from postman
 
 run:
 ```
