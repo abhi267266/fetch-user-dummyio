@@ -30,7 +30,7 @@ APP_ID=<your-api-app-id>
 ```
 Replace <your-mongodb-connection-url> with your MongoDB connection URL and <your-api-app-id> with your API app ID.
 
-#Usage
+# Usage
 
 <strong>Fetch and Store User Data</strong>
 
