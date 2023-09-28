@@ -18,9 +18,6 @@ db.on('error', (error) => {
 
 db.once('open', () => {
     console.log('Connected to MongoDB successfully!');
-    
-
-    const apiUrl = 'https://api.example.com/users'; // Replace with the actual API URL
 
     program
         .version('1.0.0')
